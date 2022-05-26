@@ -21,10 +21,6 @@ public class Problem2588 {
 			sum += temp * digit;
 		}
 		System.out.println(sum);
-		
-		
-		
-		
 	}
 
 }
